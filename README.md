@@ -1,4 +1,4 @@
-## Hi There 👋
+# Hi There 👋
 I don't know what to put here but I hope I will find something interesting to put here someday.
 
 ## About Me
