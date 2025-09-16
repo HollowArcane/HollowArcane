@@ -10,7 +10,6 @@ I like <a href="https://gleam.run">Gleam</a> and functional programming
 <img src="https://img.shields.io/badge/Gleam%20Wisp-f9eed1?style=for-the-badge&logo=gleam&logoColor=F38FE3"/>
 <img src="https://img.shields.io/badge/PostgreSQL-2A5E84?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-145FD0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-145FD0?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-DE4A36?style=for-the-badge&logo=git&logoColor=white"/>
 
 
